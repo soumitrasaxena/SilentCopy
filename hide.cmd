@@ -1,0 +1,1 @@
+wscript.exe "C:\Users\Soumitra\Desktop\invisible.vbs" "C:\Users\Soumitra\Desktop\copy.cmd"
